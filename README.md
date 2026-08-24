@@ -1,6 +1,6 @@
-# This is the start of writing my interpreter in Golang for the monkey language.
+# Interpreter in Golang for the Monkey language.
 
-I will be use the book,**Writing and Interpreter in Go** by Thorsten Ball to write this first interpreter. I will then write the same interpreter in other languages to better learn and utilize the language. 
+I will be use the book, **Writing and Interpreter in Go** by Thorsten Ball to write this first interpreter. I will then write the same interpreter in other languages to better learn and utilize the language. 
 
 I have some experience using C, minimal experience in Git, and have not programmed in the Go language before. If you have comments or recommendations to help me, feel free to email me at ceoadebi@outlook.com. Thank you and enjoy!
 
